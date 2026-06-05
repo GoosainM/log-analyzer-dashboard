@@ -1,3 +1,5 @@
 faker
 pandas
 streamlit
+requests
+python-whois
