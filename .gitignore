@@ -1,0 +1,9 @@
+# Ignore the data logs we generate locally
+data/sample_access.log
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
+
+# Ignore Streamlit runtime files
+.streamlit/
