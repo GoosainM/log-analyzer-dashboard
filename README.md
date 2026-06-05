@@ -51,18 +51,6 @@ Welcome to my production deployment repository. This workspace showcases the int
   * **Algorithmic Progressive Overload:** Implements mathematical constraint matrices restricting automated weekly training volume increases strictly within a medically safe 10% ceiling to eliminate stress injury markers.
   * **Predictive Milestone Runway:** Dynamically maps current multi-week base metrics against long-term targets (e.g., Marathon builds or Pace optimization schedules) using real-time interactive Pandas charts.
 
-<<<<<<< HEAD
-### 3. 💻 Cyber Threat & Log Analyzer Hub
-=======
-# 3. 💻 Cyber Threat & Log Analyzer Hub
->>>>>>> temp-readme-fix
-* **Live Web App:** [https://log-analyzer-dashboard.streamlit.app](https://log-analyzer-dashboard.streamlit.app)
-* **Core Modules:** `src/log_parser.py`, `src/osint_app.py`
-* **Architecture:** Formulated a Security Operations Center (SOC) utility designed to process raw, unstructured production server log streams and translate them into visible threat vectors.
-* **Key Mechanisms:**
-  * **Regex Threat Parsing:** Utilizes high-performance string matching to scan, group, and isolate malicious IP signatures, broken network hooks, and request vectors.
-  * **OSINT Passive Investigation Layer:** Leverages low-level socket-based protocol clients to coordinate external domain queries (WHOIS records) natively within a secure console environment.
-
 ---
 
 ## ⚡ Local Setup & Installation
