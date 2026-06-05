@@ -4,7 +4,11 @@ Welcome to my production deployment repository. This workspace showcases the int
 
 ---
 
+<<<<<<< HEAD
 # Global Architecture & Tech Stack
+=======
+## 🛠️ Global Architecture & Tech Stack
+>>>>>>> 3dc8deb (docs: upgrade repository readme with enterprise-grade portfolio breakdowns)
 * **Language:** Python 3.10+
 * **Frontend UI Framework:** Streamlit (Cloud Deployed)
 * **Data Processing:** Pandas, NumPy, Vectorized Arrays
@@ -14,9 +18,15 @@ Welcome to my production deployment repository. This workspace showcases the int
 
 ---
 
+<<<<<<< HEAD
 # Featured Live Applications
 
 # 1. 🏋️‍♂️ HYROX Work Capacity & Performance Engine
+=======
+## 🔬 Featured Live Applications
+
+### 1. 🏋️‍♂️ HYROX Work Capacity & Performance Engine
+>>>>>>> 3dc8deb (docs: upgrade repository readme with enterprise-grade portfolio breakdowns)
 * **Live Web App:** [https://hyrox-lab.streamlit.app](https://hyrox-lab.streamlit.app)
 * **Core Module:** `src/hyrox_app.py`
 * **Architecture:** Engineered a specialized concurrent-training analytics suite designed for competitive hybrid athletes.
@@ -25,7 +35,11 @@ Welcome to my production deployment repository. This workspace showcases the int
   * **Autonomic Nervous System Diagnostic:** Runs real-time evaluation logic against athlete biometric markers—specifically Heart Rate Variability (HRV) and resting heart rates—to catch central nervous system (CNS) overreaching.
   * **Programmatic Blueprint Generation:** Integrates an automated document compilation pipeline that outputs a crisp, corporate-styled PDF athletic scorecard on user command.
 
+<<<<<<< HEAD
 # 2. 🏃‍♂️ Endurance Performance & Adaptive Analytics Lab
+=======
+### 2. 🏃‍♂️ Endurance Performance & Adaptive Analytics Lab
+>>>>>>> 3dc8deb (docs: upgrade repository readme with enterprise-grade portfolio breakdowns)
 * **Live Web App:** [https://performance-lab.streamlit.app](https://performance-lab.streamlit.app)
 * **Core Module:** `src/fitness_app.py`
 * **Architecture:** Built an intake, data visualization, and predictive target-modeling platform focused on volume and velocity optimization for long-distance runners.
@@ -33,7 +47,11 @@ Welcome to my production deployment repository. This workspace showcases the int
   * **Algorithmic Progressive Overload:** Implements mathematical constraint matrices restricting automated weekly training volume increases strictly within a medically safe 10% ceiling to eliminate stress injury markers.
   * **Predictive Milestone Runway:** Dynamically maps current multi-week base metrics against long-term targets (e.g., Marathon builds or Pace optimization schedules) using real-time interactive Pandas charts.
 
+<<<<<<< HEAD
 # 3. 💻 Cyber Threat & Log Analyzer Hub
+=======
+### 3. 💻 Cyber Threat & Log Analyzer Hub
+>>>>>>> 3dc8deb (docs: upgrade repository readme with enterprise-grade portfolio breakdowns)
 * **Live Web App:** [https://log-analyzer-dashboard.streamlit.app](https://log-analyzer-dashboard.streamlit.app)
 * **Core Modules:** `src/log_parser.py`, `src/osint_app.py`
 * **Architecture:** Formulated a Security Operations Center (SOC) utility designed to process raw, unstructured production server log streams and translate them into visible threat vectors.
@@ -59,4 +77,8 @@ pip install -r requirements.txt
 python -m streamlit run src/hyrox_app.py
 
 # Run the Running Analytics Lab locally
+<<<<<<< HEAD
 python -m streamlit run src/fitness_app.py
+=======
+python -m streamlit run src/fitness_app.py
+>>>>>>> 3dc8deb (docs: upgrade repository readme with enterprise-grade portfolio breakdowns)
