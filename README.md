@@ -19,3 +19,14 @@ An interactive, data-driven security tool built with Python, Pandas, and Streaml
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+
+Tool 2: Bulk OSINT Link & Domain Investigator
+An automated Open Source Intelligence triage utility to audit suspicious links before interaction.
+- **Domain Age Profiling:** Parses live WHOIS records to identify high-risk, newly-registered domains (under 90 days).
+- **Multi-Engine Intelligence:** Leverages the VirusTotal API via secure k-anonymity encoded tracking to aggregate security provider verdicts.
+
+### To Run the OSINT Investigator:
+```bash
+python -m streamlit run src/osint_app.py
